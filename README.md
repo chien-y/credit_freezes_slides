@@ -14,12 +14,14 @@ _class:
 
 # Systemic credit freezes in financial lending networks
 
-Daron Acemoglu, Asuman Ozdaglar, James Siderius1 and Alireza Tahbaz-Saleh
+Daron Acemoglu, Asuman Ozdaglar, James Siderius and Alireza Tahbaz-Saleh
 
 2021 
 
 ##
-
+- Credit freezes induced by the fear.
+- Fears were visible before the collapse of Lehman Brothers.
+ - The run on Bear Stearns on March 12, 2008.
 ## Model
 
 
