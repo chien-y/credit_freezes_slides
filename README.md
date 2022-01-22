@@ -30,4 +30,4 @@ Daron Acemoglu, Asuman Ozdaglar, James Siderius and Alireza Tahbaz-Saleh
 Remember the branch and URL shown.
 
 ## 
-
+&Omega
