@@ -28,8 +28,8 @@ Daron Acemoglu, Asuman Ozdaglar, James Siderius and Alireza Tahbaz-Saleh
   - The depositor only lends out funds with an opportunity cost/ default-free rate.
   - The banks hold the asset and have liquidity shocks, which are independent across banks.
   - The entrepreneurs require a bulky investment with a fixed return. 
-
-- The potential network is given: G.
+- There is intermediation friction.
+  - The potential network is given: G.
 - Restricted by G, agents decide the lending contract relationship.
 
 ## 
