@@ -23,15 +23,11 @@ Daron Acemoglu, Asuman Ozdaglar, James Siderius and Alireza Tahbaz-Saleh
 - Fears were visible before the collapse of Lehman Brothers.
   - The run on Bear Stearns on March 12, 2008.
 ## Model
-
+- $t=0$
 
 ![](img/use-template.png)
 
 Remember the branch and URL shown.
 
-## Update Workflow
-
-You'll update the workflow file over the next few slides. You can do this right in the GitHub web page (click on the pencil icon).
-
-`.github/workflows/main.yml`
+## 
 
