@@ -32,7 +32,9 @@ Daron Acemoglu, Asuman Ozdaglar, James Siderius and Alireza Tahbaz-Saleh
   - The potential network is given: G.
 - Restricted by G, agents decide the lending contract relationship.
 
-## 
+## Credit Freezes
+- Credit freezes:
+- Systemic credit freezes:
 ![](img/use-template.png)
 
 ## Model
@@ -49,17 +51,11 @@ Daron Acemoglu, Asuman Ozdaglar, James Siderius and Alireza Tahbaz-Saleh
 - t=0: Interest rate equilibrium.
 
 
--Each equilibrium is a network or weighted graph.
+- Each equilibrium is a network or weighted graph.
+
 
 ## Theorems
 
 
-## Equilibrium
-- t=2: Repayment equilibrium.
-- t=1: Borrowing equilibrium.
-- t=0: Interest rate equilibrium.
+## Results
 
-
--Each equilibrium is a network or weighted graph.
-
-## Theorems
