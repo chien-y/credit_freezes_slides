@@ -106,6 +106,9 @@ Backward Induction.
 - Any strong equilibrium is equilibrium to a strong equilibrium such that 
   - The common network of interest rate network and borrowing network is a directed tree.
 
+## 
+![](img/directed_tree.png)
+
 ## Credit Freezes
 - Credit freezes: a bank or entrepreneur does not obtain any lending contract offer.
 - Systemic credit freezes: All entrepreneurs experience a credit freeze.
@@ -124,9 +127,6 @@ Backward Induction.
     - more credit freezes throughout the economy. 
     - less total lending.
 
-
-## 
-![](img/use-template.png)
 
 ## Results: Multiple entrepreneurs
 - In the tree networks, credit freezes are "simple".
