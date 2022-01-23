@@ -22,14 +22,14 @@ Daron Acemoglu, Asuman Ozdaglar, James Siderius and Alireza Tahbaz-Saleh
 - Credit freezes are induced by the fear of default contagion.
  
 - Fears were visible before the collapse of Lehman Brothers.
-  - After the run on Bear Stearns on March 12, 2008, Goldman Sachs, Credit Suisse, and Deutsche Bank freezed their credit to Bear Stearns.
+  - After the run on Bear Stearns on March 12, 2008, Goldman Sachs, Credit Suisse, and Deutsche Bank froze their credit to Bear Stearns.
 
 - Some financial institutions suffered credit freezes even though they did not have any direct counterparty exposure to Lehman Brothers.
   
 ## Contribution
-- Develop an model of ex ante credit freezes.
+- Develop a model of ex ante credit freezes.
 - Analyzing subgame perfect equilibria of the lending and borrowing game.
-- There exists a unique strong equilibrium in pure strategies.
+- There exists a unique, strong equilibrium in pure strategies.
   - Deviating slightly from their equilibrium strategies, decisions are robust.
 - Characterize different properties of credit freezes. 
 
@@ -41,16 +41,16 @@ Daron Acemoglu, Asuman Ozdaglar, James Siderius and Alireza Tahbaz-Saleh
  
 - Banks.
   - Intermediate the depositor and the entrepreneurs.
-  - Hold some asset. 
+  - Hold some assets. 
   - Have liquidity shocks, independently across banks.
 
 - Entrepreneurs.
-  - Access to profitable invetment opportunities.
+  - Access to profitable investment opportunities.
 
 
 ## Model
 - Three periods:
-  - t=0: Banks and depositor offer lending contracts, specifying fixed interest rates.
+  - t=0: Banks and depositors offer lending contracts, specifying fixed interest rates.
   - t=1: Banks and entrepreneurs decide the borrowing amount.
   - t=2: Debt due. Shocks are realized. 
 
@@ -63,7 +63,7 @@ Daron Acemoglu, Asuman Ozdaglar, James Siderius and Alireza Tahbaz-Saleh
 - There is an exogenous bankruptcy cost.
   - Have negative profits if banks default.
   
-- If lenders cannot deliver the funds to its borrowers, they face a prohibitively large cost.
+- If lenders cannot deliver the funds to their borrowers, they face a prohibitively large cost.
   
 
 - There is intermediation friction.
@@ -114,8 +114,9 @@ Backward Induction.
 
 
 ## Results: A Single entrepreneur.
+- Always in the form of a single intermediation chain from the depositor to the entrepreneur.
 
-- if G is a chain network, and the risk profile is symmetric,
+- If G is a chain network, and the risk profile is symmetric,
   - then there is n* s.t. the economy experiences a system freeze if and only if n>= n*.
 
 - Credit freezes are monotone and systemic.
@@ -123,7 +124,7 @@ Backward Induction.
     - more credit freezes throughout the economy. 
     - less total lending.
 
-## Results: Multiple enterpreners
+## Results: Multiple entrepreneurs
 - In the tree networks, credit freezes are "simple".
   -  Remain confined to the branch of network that experienced the adverse shift.
 
@@ -139,6 +140,6 @@ Backward Induction.
 
 ## Policies
 - In networks with a single entrepreneur, an untargeted policy is optimal.
-- When credit freezes are simple, the best targeted policy is to helps the branch of the network with banks experiencing a credit freeze.
+- When credit freezes are simple, the best targeted policy is to help the branch of the network with banks experiencing a credit freeze.
 - With complex freezes, optimal targeted policies may need to be directed to parts of the network not suffering from credit freezes.
 - Direct lending to entrepreneurs may be more costly than the optimal targeted policy.
