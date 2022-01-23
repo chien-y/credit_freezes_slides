@@ -75,13 +75,19 @@ Daron Acemoglu, Asuman Ozdaglar, James Siderius and Alireza Tahbaz-Saleh
 Backward Induction.
 - t=2: Repayment equilibrium/netowrk.
 - t=1: 
-  - Maximize profits: 
+  - Anticipating the repayment decisions at t=2.
+  - Maximize the expected profits. 
     - Borrow exactly as much as they lend out.
-    
+    - Choose the lowest interest rates.
   - Borrowing equilibrium/netowrk.
-- t=0: Interest rate equilibrium/network.
 
-
+## Equilibrium
+- t=0:
+  - Anticipating the borrowing and repayment equilibria at t=1 and t=2.
+  - Maximize the expected profits.
+  - Interest rate equilibrium/network.
+  - Could have multiple subgame perfect equilibria.
+    - Strong equilibrium: a variant of agent-form trembling-hand perfect equilibrium.
 
 
 
@@ -98,6 +104,10 @@ Backward Induction.
 
 - For any network, if the shock distribution is generic, there is an essentially unique strong equilibrium in pure strategies.
   - Essentially unique: the financial networks corresponding to all equilibria are equivalent.
+
+## 
+- Any strong equilibrium is equilibrium to a strong equilibrium such that 
+  - The common network of interest rate network and borrowing network is a directed tree.
 
 ## Results: A Single entrepreneur.
 - Credit freezes are monotone and systemic.
