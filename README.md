@@ -32,7 +32,7 @@ Daron Acemoglu, Asuman Ozdaglar, James Siderius and Alireza Tahbaz-Saleh
 - There exists a unique strong equilibrium in pure strategies.
   - Deviating slightly from their equilibrium strategies, decisions are robust.
 - Characterize different properties of credit freezes. 
-- 
+
 ## Model
 
 - A representative depositor.
@@ -91,11 +91,6 @@ Backward Induction.
 
 
 
-## Credit Freezes
-- Credit freezes: a bank or entrepreneur does not obtain any lending contract offer.
-- Systemic credit freezes: All entrepreneurs experience a credit freeze.
-
-<!-- ![](img/use-template.png) -->
 
 ## Existence and Uniqueness
 - For any network G:
@@ -103,12 +98,20 @@ Backward Induction.
   - There exists a borrowing equilibrium for any given vector of interest rates.
   - There exists a strong equilibrium in pure strategies. 
 
-- For any network, if the shock distribution is generic, there is an essentially unique strong equilibrium in pure strategies.
-  - Essentially unique: the financial networks corresponding to all equilibria are equivalent.
 
 ## 
+- For any network, if the shock distribution is generic, there is an essentially unique strong equilibrium in pure strategies.
+  - the financial networks corresponding to all equilibria are equivalent.
+
 - Any strong equilibrium is equilibrium to a strong equilibrium such that 
   - The common network of interest rate network and borrowing network is a directed tree.
+
+## Credit Freezes
+- Credit freezes: a bank or entrepreneur does not obtain any lending contract offer.
+- Systemic credit freezes: All entrepreneurs experience a credit freeze.
+
+<!-- ![](img/use-template.png) -->
+
 
 ## Results: A Single entrepreneur.
 - Credit freezes are monotone and systemic.
