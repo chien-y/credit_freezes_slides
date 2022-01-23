@@ -130,7 +130,7 @@ Backward Induction.
 
 ## Policies
 - Untargeted policies: provide liquidity to the depositor.
-- Targeted policies: provide liquidity to dostressed agents.
+- Targeted policies: provide liquidity to the destressed agents.
 
 - In a chain network, untargeted policy is optimal.
 - When credit freezes are simple, the best targeted policy is to helps the branch of the network with banks experiencing a credit freeze.
