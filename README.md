@@ -74,7 +74,11 @@ Daron Acemoglu, Asuman Ozdaglar, James Siderius and Alireza Tahbaz-Saleh
 ## Equilibrium
 Backward Induction.
 - t=2: Repayment equilibrium/netowrk.
-- t=1: Borrowing equilibrium/netowrk.
+- t=1: 
+  - Maximize profits: 
+    - Borrow exactly as much as they lend out.
+    
+  - Borrowing equilibrium/netowrk.
 - t=0: Interest rate equilibrium/network.
 
 
