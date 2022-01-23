@@ -126,12 +126,14 @@ Backward Induction.
   - One risky bank may cause other banks to have their credit frozen, even though the afflicted bank, and all of its lenders and borrowers, do not lose access to credit.
 
 - The effects of adverse shifts can be non-monotonic.
-  - Greater risks for some banks can increase overall lending in the network.
+  - Greater risks for some banks can increase overall lending
 
 ## Policies
 - Untargeted policies: provide liquidity to the depositor.
 - Targeted policies: provide liquidity to the destressed agents.
 
-- In a chain network, untargeted policy is optimal.
+## Policies
+- In networks with a single entrepreneur, an untargeted policy is optimal.
 - When credit freezes are simple, the best targeted policy is to helps the branch of the network with banks experiencing a credit freeze.
 - With complex freezes, optimal targeted policies may need to be directed to parts of the network not suffering from credit freezes.
+- Direct lending to entrepreneurs may be more costly than the optimal targeted policy.
