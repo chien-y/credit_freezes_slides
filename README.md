@@ -92,9 +92,10 @@ Backward Induction.
 
 
 ## Credit Freezes
-- Credit freezes:
-- Systemic credit freezes:
-![](img/use-template.png)
+- Credit freezes: a bank or entrepreneur does not obtain any lending contract offer.
+- Systemic credit freezes: All entrepreneurs experience a credit freeze.
+
+<!-- ![](img/use-template.png) -->
 
 ## Existence and Uniqueness
 - For any network G:
