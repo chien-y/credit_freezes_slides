@@ -107,7 +107,7 @@ Backward Induction.
   - The common network of interest rate network and borrowing network is a directed tree.
 
 ## 
-![](img/directed_tree.png)
+![90%](img/directed_tree.png)
 
 ## Credit Freezes
 - Credit freezes: a bank or entrepreneur does not obtain any lending contract offer.
@@ -138,13 +138,13 @@ Backward Induction.
   - Greater risks for some banks can increase overall lending
 
 ## Simple credit freezes.
-![](img/simple.png| width=100)
+![90%](img/simple.png| width=100)
 
 ## 
-![](img/freeze_other_branch.png){:width="80%"}
+![90%](img/freeze_other_branch.png)
 
 ## Non-monotone.
-![](img/nonmonotone_2.png){:width="50%"}
+![90%](img/nonmonotone_2.png){:width="50%"}
 
 
 ## Policies
@@ -158,7 +158,7 @@ Backward Induction.
 - Direct lending to entrepreneurs may be more costly than the optimal targeted policy.
 
 ## Ineffective Policy
-![](img/freeze_other_branch.png)
+![90%](img/freeze_other_branch.png)
 
 ## Ineffective Policy
-![](img/ineffective_policy.png)
+![90%](img/ineffective_policy.png)
