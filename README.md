@@ -138,13 +138,13 @@ Backward Induction.
   - Greater risks for some banks can increase overall lending
 
 ## Simple credit freezes.
-![](img/simple.png)
+![](img/simple.png| width=100)
 
 ## 
-![](img/freeze_other_branch.png)
+![](img/freeze_other_branch.png){:width="80%"}
 
 ## Non-monotone.
-![](img/nonmonotone_2.png)
+![](img/nonmonotone_2.png){:width="50%"}
 
 
 ## Policies
