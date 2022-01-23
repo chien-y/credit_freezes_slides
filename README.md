@@ -110,7 +110,7 @@ Backward Induction.
 - Credit freezes: a bank or entrepreneur does not obtain any lending contract offer.
 - Systemic credit freezes: All entrepreneurs experience a credit freeze.
 
-<!-- ![](img/use-template.png) -->
+
 
 
 ## Results: A Single entrepreneur.
@@ -124,15 +124,28 @@ Backward Induction.
     - more credit freezes throughout the economy. 
     - less total lending.
 
+
+## 
+![](img/use-template.png)
+
 ## Results: Multiple entrepreneurs
 - In the tree networks, credit freezes are "simple".
   -  Remain confined to the branch of network that experienced the adverse shift.
 
-- Credit freezes may originate not with the affected bank but somewhere else in the network.
-  - One risky bank may cause other banks to have their credit frozen, even though the afflicted bank, and all of its lenders and borrowers, do not lose access to credit.
+- Credit freezes may originate from the other branch of the network.
 
 - The effects of adverse shifts can be non-monotonic.
   - Greater risks for some banks can increase overall lending
+
+## Simple credit freezes.
+![](img/simple.png)
+
+## 
+![](img/freeze_other_branch.png)
+
+## Non-monotone.
+![](img/nonmonotone_2.png)
+
 
 ## Policies
 - Untargeted policies: provide liquidity to the depositor.
@@ -143,3 +156,9 @@ Backward Induction.
 - When credit freezes are simple, the best targeted policy is to help the branch of the network with banks experiencing a credit freeze.
 - With complex freezes, optimal targeted policies may need to be directed to parts of the network not suffering from credit freezes.
 - Direct lending to entrepreneurs may be more costly than the optimal targeted policy.
+
+## Ineffective Policy
+![](img/freeze_other_branch.png)
+
+## Ineffective Policy
+![](img/ineffective_policy.png)
