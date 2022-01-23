@@ -107,7 +107,7 @@ Backward Induction.
   - The common network of interest rate network and borrowing network is a directed tree.
 
 ## 
-![90%](img/directed_tree.png)
+![width:200px](img/directed_tree.png)
 
 ## Credit Freezes
 - Credit freezes: a bank or entrepreneur does not obtain any lending contract offer.
