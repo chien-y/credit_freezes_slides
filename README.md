@@ -161,4 +161,4 @@ Backward Induction.
 ![width:1000px](img/freeze_other_branch.png)
 
 ## Ineffective Policy
-![width:1000px](img/ineffective_policy.png)
+![height:400px](img/ineffective_policy.png)
