@@ -117,9 +117,11 @@ Backward Induction.
 - Credit freezes are monotone and systemic.
   - An adverse shift in the distribution shocks only leads to more credit freezes throughout the economy. 
 
+
+## Results: Multiple enterpreners
 - In the tree networks, credit freezes are "simple".
   -  Remain confined to the branch of network that experienced the adverse shift.
-## Results: Multiple enterpreners
+
 - Credit freezes may originate not with the affected bank but somewhere else in the network.
   - One risky bank may cause other banks to have their credit frozen, even though the afflicted bank, and all of its lenders and borrowers, do not lose access to credit.
 
