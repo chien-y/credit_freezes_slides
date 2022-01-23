@@ -114,8 +114,9 @@ Backward Induction.
 
 
 ## Results: A Single entrepreneur.
-- Given a chain network and generic set of risk profile, if the risk profile is symmetric, there exists n* s.t. the economy experiences a system freeze if and only if n >= n*.
 
+- if G is a chain network, and the risk profile is symmetric,
+  - then there is n* s.t. the economy experiences a system freeze if and only if n>= n*.
 
 - Credit freezes are monotone and systemic.
   - An adverse shift in the distribution shocks can only lead to 
