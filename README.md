@@ -20,8 +20,11 @@ Daron Acemoglu, Asuman Ozdaglar, James Siderius and Alireza Tahbaz-Saleh
 
 ## Introduction
 - Credit freezes are induced by the fear of default contagion.
+ 
 - Fears were visible before the collapse of Lehman Brothers.
-  - The run on Bear Stearns on March 12, 2008.
+  - After the run on Bear Stearns on March 12, 2008, Goldman Sachs, Credit Suisse, and Deutsche Bank freezed their credit to Bear Stearns.
+
+- Some financial institutions suffered credit freezes even though they did not have any direct counterparty exposure to Lehman Brothers.
   
 ## Model
 - Agents: A representative depositor, banks, entrepreneurs.
