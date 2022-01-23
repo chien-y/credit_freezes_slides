@@ -144,7 +144,7 @@ Backward Induction.
 ![90%](img/freeze_other_branch.png)
 
 ## Non-monotone.
-![90%](img/nonmonotone_2.png){:width="50%"}
+![90%](img/nonmonotone_2.png)
 
 
 ## Policies
