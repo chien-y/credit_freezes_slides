@@ -19,11 +19,13 @@ Daron Acemoglu, Asuman Ozdaglar, James Siderius and Alireza Tahbaz-Saleh
 2021 
 
 ## Introduction
-- Credit freezes are induced by the fear of default contagion.
- 
-- Fears were visible before the collapse of Lehman Brothers.
-  - After the run on Bear Stearns on March 12, 2008, Goldman Sachs, Credit Suisse, and Deutsche Bank froze their credit to Bear Stearns.
 
+- Credit freezes: a bank or entrepreneur does not obtain any lending contract offer.
+
+- Systemic credit freezes: All entrepreneurs experience a credit freeze.
+
+- Credit freezes are induced by the fear of default contagion, before the collapse of Lehman Brothers.
+ 
 - Some financial institutions suffered credit freezes even though they did not have any direct counterparty exposure to Lehman Brothers.
   
 ## Contribution
@@ -32,6 +34,7 @@ Daron Acemoglu, Asuman Ozdaglar, James Siderius and Alireza Tahbaz-Saleh
 - There exists a unique, strong equilibrium in pure strategies.
   - Deviating slightly from their equilibrium strategies, decisions are robust.
 - Characterize different properties of credit freezes. 
+- Policies.
 
 ## Model
 
@@ -108,12 +111,6 @@ Backward Induction.
 
 ## 
 ![width:1000px](img/directed_tree.png)
-
-## Credit Freezes
-- Credit freezes: a bank or entrepreneur does not obtain any lending contract offer.
-- Systemic credit freezes: All entrepreneurs experience a credit freeze.
-
-
 
 
 ## Results: A Single entrepreneur.
